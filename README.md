@@ -1,4 +1,4 @@
 
 # LunchHaxe
 
-Haxe testing at lunch with Mike.
+Haxe testing at lunch with hakoMike.
